@@ -9,6 +9,7 @@ You can click the Preview link to take a look at your changes.
 ![This is me](https://user-images.githubusercontent.com/51006648/195677745-4b3016e5-3182-4271-a467-c5194ff14bba.png)
 ```javascript
 const SamuelReyes = {
+InspirationalPhrase: "¡Haz de cada día tu obra maestra. - John Wooden ",
 Description:"Hi, I’m @samuelreyesiglesias , i’m currently learning about...",
 Skills: [
  {
