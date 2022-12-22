@@ -9,12 +9,12 @@ You can click the Preview link to take a look at your changes.
 
 
 ```javascript
-const SamuelReyes = {
-Description:"Hello, I’m @samuelreyesiglesias , i’m currently learning about...",
+const Me = {
+Description:"Hello, I’m Samuel.",
 Skills: [
  {
- "Languajes":["C#","PHP" , "JS" , "SQLServer" , "MySQL", "Vue", "Laravel","Python"],
- "Technologies":["Mobile Development","Web Development","Big data","Machine Learning", "Devops","CyberSecurity", "BlockChain"]
+ "MyFavoritesLanguages":["C#","PHP" , "JS" , "SQLServer" , "MySQL", "Vue", "Laravel","Python"],
+ "IWantToLearnTechnologies":["Mobile Development","Web Development","Big data","Machine Learning", "Devops","CyberSecurity", "BlockChain"]
  }
 ],
 homePage: "https://github.com/samuelreyesiglesias"
