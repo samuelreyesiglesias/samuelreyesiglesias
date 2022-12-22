@@ -12,8 +12,8 @@ const SamuelReyes = {
 Description:"Hello, I’m @samuelreyesiglesias , i’m currently learning about...",
 Skills: [
  {
- "Languajes":["c#","php" , "javascript" , "SQL SERVER" , "MySQL", "Vue", "Laravel"],
- "Technologies":["Mobile Development","Web Development","Big data","Machine Learning", "Devops","CiberSecurity", "BlockChain"]
+ "Languajes":["C#","PHP" ,"Python", "JS" , "SQLServer" , "MySQL", "Vue", "Laravel"],
+ "Technologies":["Mobile Development","Web Development","Big data","Machine Learning", "Devops","CyberSecurity", "BlockChain"]
  }
 ],
 homePage: "https://github.com/samuelreyesiglesias"
