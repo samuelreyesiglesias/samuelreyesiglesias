@@ -9,11 +9,11 @@ You can click the Preview link to take a look at your changes.
 
 ```
 python code
-def HolaMundo():
+def HelloWorldFunction():
  print("hello world")
  
 #calling the function
-HolaMundo();
+HelloWorldFunction();
 ``````
 ```javascript
 const AboutMe = {
