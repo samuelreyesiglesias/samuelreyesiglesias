@@ -8,9 +8,12 @@ You can click the Preview link to take a look at your changes.
  ![196262035-eadf9efc-5bcc-4f7d-85aa-5ac17d7e6582 (1)](https://user-images.githubusercontent.com/51006648/209212692-ac0b1a23-12bd-47a7-91ad-0b5e8ce9f26e.png)
 
 ```
-python
+python code
 def HolaMundo():
- print("hell world")
+ print("hello world")
+ 
+#calling the function
+HolaMundo();
 ``````
 ```javascript
 const AboutMe = {
