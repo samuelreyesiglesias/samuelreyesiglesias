@@ -23,14 +23,13 @@ def HelloWorldFunction():
 HelloWorldFunction();
 ``````
 ```javascript
-const AboutMe = {
-Description:"Hello, I’m Samuel. I am a Software Developer",
-MySkills: [
- {
- "Languages":["C#","PHP" , "JS" , "SQLServer" , "MySQL", "Vue", "Laravel","Python"],
-  "Technologies":["Mobile Development","Web Development","Big data","Machine Learning", "Devops","CyberSecurity", "BlockChain"]
- }
-],
-homePage: "https://github.com/samuelreyesiglesias"
+const myProfile = {
+name: "Samuel Reyes",
+profession: "Software Developer",
+skills: {
+languages: ["JavaScript", "Python", "C#", "PHP", "SQL"],
+technologies: ["Web Development", "Mobile Development", "DevOps", "Machine Learning", "Big Data", "Blockchain", "Cybersecurity"]
+},
+portfolioLink: "https://github.com/samuelreyesiglesias"
 };
 ``````
