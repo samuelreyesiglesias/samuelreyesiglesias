@@ -29,7 +29,7 @@ name: "Samuel Reyes",
 profession: "Software Developer",
 skills: {
 languages: ["JavaScript", "Python", "C#", "PHP", "SQL"],
-technologies: ["Web Development", "Mobile Development", "DevOps", "Machine Learning", "Big Data", "Blockchain", "Cybersecurity"]
+technologies: ["Web Development", "Mobile Development", "Machine Learning", "Cybersecurity"]
 },
 portfolioLink: "https://github.com/samuelreyesiglesias"
 };
