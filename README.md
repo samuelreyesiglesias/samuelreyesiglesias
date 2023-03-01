@@ -16,11 +16,12 @@ continuo y adapta a nuevos desafíos y tecnologías.
 
 
 ```python
-def HelloWorldFunction():
- print("hello world")
+def get_github_profile_url(username):
+    return f"https://github.com/{username}"
  
-#calling the function
-HelloWorldFunction();
+my_username = "samuelreyesiglesias"
+my_github_profile_url = get_github_profile_url(my_username)
+print(my_github_profile_url)
 ``````
 ```javascript
 const myProfile = {
