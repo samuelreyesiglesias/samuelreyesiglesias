@@ -1,36 +1,19 @@
- 
+# Samuel Reyes - Software Developer
 
-<!---
-samuelreyesiglesias/samuelreyesiglesias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
- 
- ![196262035-eadf9efc-5bcc-4f7d-85aa-5ac17d7e6582 (1)](https://user-images.githubusercontent.com/51006648/209212692-ac0b1a23-12bd-47a7-91ad-0b5e8ce9f26e.png)
+Welcome to my GitHub profile! I'm Samuel Reyes, a software developer with a passion for staying up-to-date with the latest skills and technologies. I believe in effective communication, teamwork, and creative problem-solving.
 
-```python
-/*
-Mantente actualizado en habilidades y tecnologías. Comunica y trabaja bien en equipo. 
-Sé un solucionador de problemas creativo y efectivo. Mantén una actitud de aprendizaje 
-continuo y adapta a nuevos desafíos y tecnologías.
-``````
+## About Me
+- Name: Samuel Reyes
+- Profession: Software Developer
 
+## Skills
+- Languages: JavaScript, Python, C#, PHP, SQL
+- Technologies: Web Development, Mobile Development, Machine Learning
 
-```python
-def get_github_profile_url(username):
-    return f"https://github.com/{username}"
- 
-my_username = "samuelreyesiglesias"
-my_github_profile_url = get_github_profile_url(my_username)
-print(my_github_profile_url)
-``````
-```javascript
-const myProfile = {
-name: "Samuel Reyes",
-profession: "Software Developer",
-skills: {
-languages: ["JavaScript", "Python", "C#", "PHP", "SQL"],
-technologies: ["Web Development", "Mobile Development", "Machine Learning"]
-},
-portfolioLink: "https://github.com/samuelreyesiglesias"
-};
-``````
+## Portfolio
+Check out my portfolio on GitHub to see some of my projects and contributions: [Portfolio](https://github.com/samuelreyesiglesias)
+
+## GitHub Profile
+Connect with me on GitHub: [GitHub Profile](https://github.com/samuelreyesiglesias)
+
+Feel free to explore my repositories and projects. Let's collaborate and tackle new challenges together!
