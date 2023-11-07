@@ -11,9 +11,9 @@ Welcome to my GitHub profile! I'm Samuel Reyes, a software developer with a pass
 - Technologies: Web Development, Mobile Development, Machine Learning
 
 ## Portfolio
-Check out my portfolio on GitHub to see some of my projects and contributions: [Portfolio](https://github.com/samuelreyesiglesias)
+Check out my portfolio on GitHub to see some of my projects and contributions.
 
 ## GitHub Profile
-Connect with me on GitHub: [GitHub Profile](https://github.com/samuelreyesiglesias)
+Connect with me 
 
 Feel free to explore my repositories and projects. Let's collaborate and tackle new challenges together!
