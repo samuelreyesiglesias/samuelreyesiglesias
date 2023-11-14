@@ -7,13 +7,10 @@ Welcome to my GitHub profile! I'm Samuel Reyes, a software developer with a pass
 - Profession: Software Developer
 
 ## Skills
-- Languages: JavaScript, Python, C#, PHP, SQL
-- Technologies: Web Development, Mobile Development, Machine Learning
-
-## Portfolio
-Check out my portfolio on GitHub to see some of my projects and contributions.
-
-## GitHub Profile
-Connect with me 
-
+NET 
+JavaScript
+Python 
+PHP
+SQL Server
+ 
 Feel free to explore my repositories and projects. Let's collaborate and tackle new challenges together!
