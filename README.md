@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I'm Samuel Reyes, a software developer with a pass
 - Profession: Software Developer
 
 ## Skills
--.NET
--JavaScript
--Python 
--PHP
--SQL Server
+- .NET
+- JavaScript
+- Python 
+- PHP
+- SQL Server
 
