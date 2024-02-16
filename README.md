@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile!
 
-I'm Samuel Reyes, a dedicated software developer with a strong passion for leveraging the latest technologies to create impactful solutions. I thrive on effective communication, collaborative teamwork, and innovative problem-solving.
+I'm Samuel, a software developer who loves using new technology to solve problems. I work well with others and believe AI will make our future better.
 
 ### About Me
 - **Name:** Samuel Reyes
@@ -22,9 +22,9 @@ I'm Samuel Reyes, a dedicated software developer with a strong passion for lever
 - **Duration:** 2011 - 2013
 
 ##### Responsibilities:
-- Developed software solutions tailored to meet the unique needs of clients, focusing on usability and functionality.
-- Worked closely with stakeholders to gather requirements, design software architecture, and deliver high-quality solutions within project timelines.
-- Contributed to the development of innovative software products, enhancing the company's reputation for excellence in the software development industry.
+- Created software to fit what clients wanted, making sure it was easy to use and worked well.
+- Talked a lot with people involved to understand what they needed, planned out how the software would work, and got it done on time.
+- Helped make new software that made our company look really good at making great software.
 
 
 #### Company: PC MILLENIUM
@@ -32,9 +32,10 @@ I'm Samuel Reyes, a dedicated software developer with a strong passion for lever
 - **Duration:** 2013 - 2016
 
 ##### Responsibilities:
-- Led the development of government systems aimed at enhancing public service efficiency and citizen engagement.
-- Collaborated closely with cross-functional teams to gather requirements, design solutions, and implement robust software solutions.
-- Ensured compliance with government regulations and standards, contributing to the success and seamless operation of critical public-sector projects.
+- Took charge of making government systems better to help serve people and get them involved.
+- Worked closely with different teams to understand what was needed, figure out how to solve problems, and put strong software solutions in place.
+- Made sure everything we did followed the rules and standards set by the government, making important projects run smoothly.
+
 
 
 ### Current Employment
@@ -44,7 +45,8 @@ I'm Samuel Reyes, a dedicated software developer with a strong passion for lever
 - **Duration:** 2021 - 2024 -
 
 ##### Responsibilities:
-- Developed customized accounting and financial software solutions tailored to meet the unique requirements of clients in the financial industry.
-- Collaborated closely with stakeholders to understand their accounting and financial needs, designing software with a focus on accuracy, compliance, and efficiency.
-- Played a key role in delivering innovative solutions that streamlined financial processes, enhanced data analysis capabilities, and improved overall business performance.
+- Made special accounting and financial software for clients in finance, fitting exactly what they needed.
+- Worked closely with people involved to understand their accounting and financial needs, making software that was accurate, followed the rules, and worked fast.
+- Helped make new solutions that made financial work easier, analyzed data better, and made businesses perform even better.
+
 
