@@ -17,6 +17,16 @@ I'm Samuel Reyes, a dedicated software developer with a strong passion for lever
 
 ### Previous Experience
 
+#### Company: SENIC
+- **Position:** Software Developer
+- **Duration:** 2011 - 2013
+
+##### Responsibilities:
+- Developed software solutions tailored to meet the unique needs of clients, focusing on usability and functionality.
+- Worked closely with stakeholders to gather requirements, design software architecture, and deliver high-quality solutions within project timelines.
+- Contributed to the development of innovative software products, enhancing the company's reputation for excellence in the software development industry.
+
+
 #### Company: PC MILLENIUM
 - **Position:** Software Developer
 - **Duration:** 2013 - 2016
@@ -26,14 +36,6 @@ I'm Samuel Reyes, a dedicated software developer with a strong passion for lever
 - Collaborated closely with cross-functional teams to gather requirements, design solutions, and implement robust software solutions.
 - Ensured compliance with government regulations and standards, contributing to the success and seamless operation of critical public-sector projects.
 
-#### Company: SENIC
-- **Position:** Software Developer
-- **Duration:** 2011 - 2013
-
-##### Responsibilities:
-- Developed software solutions tailored to meet the unique needs of clients, focusing on usability and functionality.
-- Worked closely with stakeholders to gather requirements, design software architecture, and deliver high-quality solutions within project timelines.
-- Contributed to the development of innovative software products, enhancing the company's reputation for excellence in the software development industry.
 
 ### Current Employment
 
