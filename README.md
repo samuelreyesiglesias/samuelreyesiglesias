@@ -4,6 +4,7 @@
 
 
 # Tecnologias
+![Samuel Reyes](https://github.com/samuelreyesiglesias/dev.gifs/blob/main/tech.vscode.svg?raw=true)
 
 # Lenguajes
 ###### **Languages:** .NET, JavaScript, Python, PHP
