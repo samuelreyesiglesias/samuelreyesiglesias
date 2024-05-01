@@ -11,9 +11,10 @@
 
 
 # Estudios
-######  **Tecnico en Ingenieria de Sistemas Informaticos 2009 - 2010**
+####  **Tecnico en Ingenieria de Sistemas Informaticos 2009 - 2010**
 <img src="https://github.com/samuelreyesiglesias/dev.gifs/blob/main/university.itca.png" width=68>
-######  **Lic Informatica Educativa 2023-**
+
+####  **Lic Informatica Educativa 2023-**
 <img src="https://github.com/samuelreyesiglesias/dev.gifs/blob/main/university.ues.png" width=68>
 
 
