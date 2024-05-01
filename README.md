@@ -1,7 +1,6 @@
+<img  align="left" width="100" src="https://github.com/samuelreyesiglesias/dev.gifs/blob/main/tech.api.gif?raw=true">
 ###### **Soy entusiasta informatico desde 2005, inicie en el mundo de Javascript en 2007, actualmente soy programador, mi nombre es Samuel Reyes y si tengo la  oportunidad de ayudarte en algun tema de tecnologia, lo hago.**
-
-![Samuel Reyes](https://github.com/samuelreyesiglesias/dev.gifs/blob/main/tech.api.gif.gif?raw=true)
-
+<br clear="left"/>
 
 # Tecnologias
 <img src="https://github.com/samuelreyesiglesias/dev.gifs/blob/main/tech.vscode.svg?raw=true" height=24> <img src="https://github.com/samuelreyesiglesias/dev.gifs/blob/main/tech.git.svg?raw=true" height=24> <img src="https://github.com/samuelreyesiglesias/dev.gifs/blob/main/tech.github.svg" height=24><img src="https://github.com/samuelreyesiglesias/dev.gifs/blob/main/tech.stackoverflow.svg" height=24>
