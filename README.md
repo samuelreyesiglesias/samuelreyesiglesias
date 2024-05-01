@@ -1,7 +1,6 @@
-Hola amigos, mi nombre es Samuel, soy programador, desde 2009 pero entusiasta informatico desde 2005.
+###### **Hola amigos, mi nombre es Samuel. Inicie en el mundo de Javascript en 2007, actualmente soy programador, pero entusiasta informatico desde 2005.**
 
 ![Samuel Reyes]([URL-de-la-imagen](https://github.com/samuelreyesiglesias/dev.gifs/blob/main/tech.api.gif.gif?raw=true))
-
 
 ###### Tecnologias
 
