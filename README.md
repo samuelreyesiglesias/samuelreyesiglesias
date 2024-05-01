@@ -4,8 +4,8 @@
 
 
 # Tecnologias
-<img src="https://github.com/samuelreyesiglesias/dev.gifs/blob/main/tech.vscode.svg?raw=true">
-<img src="https://github.com/samuelreyesiglesias/dev.gifs/blob/main/tech.git.svg?raw=true">
+<img src="https://github.com/samuelreyesiglesias/dev.gifs/blob/main/tech.vscode.svg?raw=true" height=24> <img src="https://github.com/samuelreyesiglesias/dev.gifs/blob/main/tech.git.svg?raw=true" height=24>
+
  
 
 # Lenguajes
