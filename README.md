@@ -1,6 +1,7 @@
 ###### **Hola amigos, mi nombre es Samuel. Inicie en el mundo de Javascript en 2007, actualmente soy programador, pero entusiasta informatico desde 2005.**
 
-![Samuel Reyes]([URL-de-la-imagen](https://github.com/samuelreyesiglesias/dev.gifs/blob/main/tech.api.gif.gif?raw=true))
+![image](https://github.com/samuelreyesiglesias/samuelreyesiglesias/assets/51006648/e721e898-e4c3-44d9-8fc4-f43cba33aa51)
+
 
 # Tecnologias
 
