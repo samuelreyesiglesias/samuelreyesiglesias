@@ -1,4 +1,4 @@
-###### **Soy entusiasta informatico desde 2005, inicie en el mundo de Javascript en 2007, actualmente soy programador, mi nombre es Samuel Reyes y si tengo la ###### oportunidad de ayudarte en algun tema de tecnologia, lo hago.**
+###### **Soy entusiasta informatico desde 2005, inicie en el mundo de Javascript en 2007, actualmente soy programador, mi nombre es Samuel Reyes y si tengo la  oportunidad de ayudarte en algun tema de tecnologia, lo hago.**
 
 ![Samuel Reyes](https://github.com/samuelreyesiglesias/dev.gifs/blob/main/tech.api.gif.gif?raw=true)
 
