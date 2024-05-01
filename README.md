@@ -5,11 +5,10 @@
 <img src="https://github.com/samuelreyesiglesias/dev.gifs/blob/main/tech.vscode.svg?raw=true" height=24> <img src="https://github.com/samuelreyesiglesias/dev.gifs/blob/main/tech.git.svg?raw=true" height=24> <img src="https://github.com/samuelreyesiglesias/dev.gifs/blob/main/tech.github.svg" height=24><img src="https://github.com/samuelreyesiglesias/dev.gifs/blob/main/tech.stackoverflow.svg" height=24>
 
  
- 
-
 # Lenguajes
-###### **Languages:** .NET, JavaScript, Python, PHP
-###### **Databases:** SQL Server
+<img src="https://github.com/samuelreyesiglesias/dev.gifs/blob/main/lang.c%23.png?raw=true" height=24><img src="https://raw.githubusercontent.com/samuelreyesiglesias/dev.gifs/14fc77d20d335aa07cf0bc1b9e7062e181067919/lang.css.svg" height=24>
+<img src="https://github.com/samuelreyesiglesias/dev.gifs/blob/main/lang.html5.png?raw=true" height=24><img src="https://raw.githubusercontent.com/samuelreyesiglesias/dev.gifs/14fc77d20d335aa07cf0bc1b9e7062e181067919/lang.java.svg" height=24> <img src="https://raw.githubusercontent.com/samuelreyesiglesias/dev.gifs/14fc77d20d335aa07cf0bc1b9e7062e181067919/lang.js.svg" height=24> <img src="https://github.com/samuelreyesiglesias/dev.gifs/blob/main/lang.php.png?raw=true" height=24> <img src="https://raw.githubusercontent.com/samuelreyesiglesias/dev.gifs/14fc77d20d335aa07cf0bc1b9e7062e181067919/lang.python.svg" height=24> <img src="https://github.com/samuelreyesiglesias/dev.gifs/blob/main/ISO_C%2B%2B_Logo.svg.png" height=24> <img src="https://github.com/samuelreyesiglesias/dev.gifs/blob/main/lang.mysql.png" height=24> <img src="https://github.com/samuelreyesiglesias/dev.gifs/blob/main/lang.sql.png" height=24>
+
 
 # Estudios
 #### **ITCA Fepade La Unión, El Salvador** 
