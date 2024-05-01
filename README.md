@@ -11,7 +11,7 @@ Hola amigos, mi nombre es Samuel, soy programador, desde 2009 pero entusiasta in
 
 # Estudios
 ###### **ITCA Fepade La Unión, El Salvador** 
-  **Technician in Systems Engineering**
+  **Tecnico en Ingenieria de Sistemas Informaticos**
   **2009 - 2010**
 
 ###### **Universidad de El Salvador** 
