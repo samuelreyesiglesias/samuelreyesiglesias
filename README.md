@@ -1,5 +1,7 @@
 <img  align="left" width="100" src="https://github.com/samuelreyesiglesias/dev.gifs/blob/main/tech.api.gif?raw=true">
-Hola Soy Samuel, Soy entusiasta informatico desde 2005, inicie en el mundo de Javascript en 2007, actualmente soy programador. Si tengo la  oportunidad de ayudarte en algun tema de tecnologia, lo hago.
+Hola Soy Samuel, Soy entusiasta informatico desde 2005, inicie en el mundo de Javascript en 2007, actualmente soy programador. Actualmente estoy aprendiendo un poco de Machine learning en .NET y un poco de python.
+
+Si tengo la  oportunidad de ayudarte en algun tema de tecnologia, lo hago.
 <br clear="left"/>
 
 # Tecnologias
