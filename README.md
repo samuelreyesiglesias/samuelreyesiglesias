@@ -1,6 +1,11 @@
 # Samuel Reyes
 
-<img  align="left" width="100" src="https://github.com/samuelreyesiglesias/dev.gifs/blob/main/tech.api.gif?raw=true" />Hola Soy Samuel, programador desde 2007 con Javascript como primer lenguaje.-
+<img  align="left" width="100" src="https://github.com/samuelreyesiglesias/dev.gifs/blob/main/tech.api.gif?raw=true" />
+Programador desde 
+2007 iniciando con Javascript como primer lenguaje.-
+Luego con CSS, HTML, ...
+Despues PHP, MYSQL, despues Visual Basic, años más tarde
+Python, JAVA, SQL Server, y .NET
 <br clear="left"/>
 
 # Tecnologias
