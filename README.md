@@ -1,6 +1,6 @@
 # Samuel Reyes
 
-<img  align="left" width="100" src="https://github.com/samuelreyesiglesias/dev.gifs/blob/main/tech.api.gif?raw=true" />
+<img  align="left" width="450" src="https://github.com/samuelreyesiglesias/dev.gifs/blob/main/tech.api.gif?raw=true" />
 Programador desde 
 2007 iniciando con Javascript como primer lenguaje.-
 Luego con CSS, HTML, ...
