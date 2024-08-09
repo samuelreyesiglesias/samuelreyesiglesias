@@ -1,5 +1,6 @@
 Samuel Reyes
-<img align="left" width="450" src="https://github.com/samuelreyesiglesias/dev.gifs/blob/main/tech.api.gif?raw=true" />
+<img align="left" width="450" src="https://github.com/samuelreyesiglesias/dev.gifs/blob/main/tech.api.gif?raw=true" style="border-radius: 100%;" />
+
 Soy un programador que ama lo que hace, con más de 15 años de experiencia en el mundo del desarrollo de software. Mi viaje comenzó en 2007 con JavaScript, y a lo largo de los años he ampliado mi conocimiento en diversas tecnologías y lenguajes, desde el desarrollo web hasta el backend y la administración de bases de datos.
 
 He trabajado con una amplia gama de herramientas y lenguajes, incluyendo PHP, MySQL, Visual Basic, Python, Java, SQL Server y .NET, lo que me ha permitido adaptarme y contribuir en diferentes proyectos con un enfoque en soluciones eficientes y escalables.
