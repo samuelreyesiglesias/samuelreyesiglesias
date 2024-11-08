@@ -18,10 +18,10 @@ He trabajado con lenguajes, como:
 # 🚀 Logros Destacados
 
 
-- Desarrollo e implementación de sistemas para 28 alcaldías
 - Especialista en integraciones y automatización de sistemas
 - Desarrollo de aplicaciones para procesamiento de correos
 - Desarrollo de servicios automatizados en .NET
+- Desarrollo e implementación de sistemas Alcaldías
 
 ## 🎓 Formación Académica
 
