@@ -1,9 +1,24 @@
 Samuel Reyes
 ![8e3db98c9f6569e71a1a4f998988d92d](https://github.com/user-attachments/assets/fa0fd64f-277c-445a-a3d6-60939f8c7d18)
 
-Soy un programador que ama lo que hace, con más de 15 años de experiencia en el mundo del desarrollo de software. Mi viaje comenzó en 2007 con JavaScript, y a lo largo de los años he ampliado mi conocimiento en diversas tecnologías y lenguajes, desde el desarrollo web hasta el backend y la administración de bases de datos.
+# Bienvenido
 
-He trabajado con una amplia gama de herramientas y lenguajes, incluyendo PHP, MySQL, Visual Basic, Python, Java, SQL Server y .NET, lo que me ha permitido adaptarme y contribuir en diferentes proyectos con un enfoque en soluciones eficientes y escalables.
+Soy un programador apasionado con algunos años de experiencia. Desde 2007 inicie con mis primeros "hola mundos" en JavaScript, y ahora ya recorrí algunos lenguajes populares.
+## Tecnologías y Lenguajes
+
+He trabajado con una amplia gama de herramientas y lenguajes, incluyendo:
+- PHP
+- MySQL
+- Visual Basic
+- Python
+- Java
+- SQL Server
+- .NET
+
+## Formación Académica
+
+- Técnico en Ingeniería de Sistemas Informáticos, ITCA-FEPADE, 2009 - 2010
+- Licenciatura en Informática Educativa, Universidad de El Salvador, 2023 - Actualmente
 
 <br clear="left"/>
 Tecnologías
