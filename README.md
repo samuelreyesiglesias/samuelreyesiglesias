@@ -1,6 +1,6 @@
 # Bienvenido
 
-Soy un programador enstusiasmado por aprender un poco más cada día, llevo algunos años en este mundo , en 2007 inicié mis primeros "hola mundos" en JavaScript y desde esas fechas hasta hoy recorrí varios lenguajes de los más conocidos, sigo aprendiendo y me alegro al ver tecnologías emergente sobre todo por el auge de la inteligencia artificial.
+Soy un programador enstusiasta desde 2007, momento que inicié mis primeros "hola mundos" en JavaScript y desde esas fechas hasta hoy recorrí varios lenguajes de los más conocidos, sigo aprendiendo y me alegro al ver tecnologías emergente sobre todo por el auge de la inteligencia artificial.
 
 ## Tecnologías y Lenguajes
 
