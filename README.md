@@ -17,7 +17,7 @@ He trabajado con lenguajes, como:
 
 ## 🚀 Logros Destacados
 
-- Integración de Sistemas
+- Integración de Sistemas y desarrollo de APIS 
 - Desarrollo de Servicios de automatización 
 - Desarrollo de aplicaciones para procesamiento Masivo de correos
 - Desarrollo e implementación de sistemas Alcaldías
