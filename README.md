@@ -1,12 +1,9 @@
-Samuel Reyes
-![8e3db98c9f6569e71a1a4f998988d92d](https://github.com/user-attachments/assets/fa0fd64f-277c-445a-a3d6-60939f8c7d18)
-
 # Bienvenido
 
 Soy un programador apasionado con algunos años de experiencia. Desde 2007 inicie con mis primeros "hola mundos" en JavaScript, y ahora ya recorrí algunos lenguajes populares.
 ## Tecnologías y Lenguajes
 
-He trabajado con una amplia gama de herramientas y lenguajes, incluyendo:
+He trabajado con lenguajes, como:
 - PHP
 - MySQL
 - Visual Basic
