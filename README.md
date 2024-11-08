@@ -1,6 +1,6 @@
 # Bienvenido
 
-Soy un programador apasionado con algunos años de experiencia. Desde 2007 inicie con mis primeros "hola mundos" en JavaScript, y ahora ya recorrí algunos lenguajes populares.
+Soy un programador apasionado con algunos años de experiencia. Desde 2007 inicie con mis primeros "hola mundos" en JavaScript, desde la fecha recorrí varios lenguajes populares y sigo aprendiendo.
 ## Tecnologías y Lenguajes
 
 He trabajado con lenguajes, como:
