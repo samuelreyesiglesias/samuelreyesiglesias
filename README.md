@@ -15,12 +15,11 @@ He trabajado con lenguajes, como:
 
 
 
-# 🚀 Logros Destacados
+## 🚀 Logros Destacados
 
-
-- Especialista en integraciones y automatización de sistemas
-- Desarrollo de aplicaciones para procesamiento de correos
-- Desarrollo de servicios automatizados en .NET
+- Integración de Sistemas
+- Desarrollo de Servicios de automatización 
+- Desarrollo de aplicaciones para procesamiento Masivo de correos
 - Desarrollo e implementación de sistemas Alcaldías
 
 ## 🎓 Formación Académica
