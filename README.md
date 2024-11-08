@@ -11,7 +11,7 @@ He trabajado con lenguajes, como:
 - Python
 - Java
 - SQL Server
-- .NET
+- .NET (y por ahora mi mejor amigo .NET♥)
 
 
 
