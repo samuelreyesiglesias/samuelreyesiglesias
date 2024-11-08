@@ -20,7 +20,7 @@ He trabajado con lenguajes, como:
 
 - Desarrollo e implementación de sistemas para 28 alcaldías
 - Especialista en integraciones y automatización de sistemas
-- Experto en desarrollo de aplicaciones para procesamiento de correos
+- Desarrollo de aplicaciones para procesamiento de correos
 - Desarrollo de servicios automatizados en .NET
 
 ## 🎓 Formación Académica
