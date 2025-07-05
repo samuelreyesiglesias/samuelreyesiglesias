@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Samuel
 
 Desarrollo soluciones que automatizan procesos y conectan sistemas de forma simple y confiable.
 
