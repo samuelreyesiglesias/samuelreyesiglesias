@@ -6,17 +6,21 @@ Desarrollo soluciones que automatizan procesos e integran sistemas de forma simp
 
 ## 🚀 Lo que hago
 
-- Automatización de procesos fiscales y administrativos
-- Integración de APIs y sistemas contables y comerciales
-- Desarrollo de aplicaciones enfocadas en eficiencia y simplicidad
-- Soluciones prácticas para empresas y gobiernos locales
+| | |
+|---|---|
+| ✔️ Automatización de procesos fiscales y administrativos | ✔️ Integración de APIs y sistemas contables |
+| ✔️ Desarrollo de aplicaciones simples y eficientes | ✔️ Soluciones para empresas y gobiernos locales |
 
 ---
 
 ## 🛠️ Tecnologías
 
-C# / ASP.NET · SQL Server · PHP + MySQL · Python (Flask) · Java  
-JavaScript · HTML + CSS · Tailwind CSS · Alpine.js
+| Lenguajes & Frameworks | Bases de Datos | Frontend & Estilos |
+|------------------------|----------------|--------------------|
+| C# / ASP.NET           | SQL Server     | HTML + CSS         |
+| PHP                    | MySQL          | Tailwind CSS       |
+| Python (Flask)         |                | JavaScript · Alpine.js |
+| Java                   |                |                    |
 
 ---
 
@@ -33,18 +37,25 @@ JavaScript · HTML + CSS · Tailwind CSS · Alpine.js
 
 ## 🎓 Formación
 
-- Licenciatura en Informática Educativa – UES *(En curso)*
-- Técnico en Ingeniería de Sistemas Informáticos – ITCA-FEPADE *(2009-2010)*
+| Grado        | Institución                   | Estado     |
+|--------------|-------------------------------|------------|
+| Licenciatura | Universidad de El Salvador    | En curso   |
+| Técnico      | ITCA-FEPADE                   | 2009-2010  |
 
 ---
 
 ## 📜 Certificaciones Platzi
 
-Scrum · JavaScript Práctico · POO · Introducción a C# · NPM ·  
-JavaScript OOP · Data Science e Inteligencia Artificial · ECMAScript 6
+| | |
+|-------------------------------|--------------------------------|
+| Scrum                         | JavaScript Práctico            |
+| Programación Orientada a Objetos | Introducción a C#            |
+| NPM                           | JavaScript OOP                 |
+| Data Science e Inteligencia Artificial | ECMAScript 6         |
 
 ---
 
 ## 🌱 Actualmente aprendiendo
 
 .NET Core · APIs RESTful · Automatización de procesos
+
