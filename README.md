@@ -1,61 +1,47 @@
-# 👋 ¡Hola! Soy Samuel
+# 👋 ¡Hola! Soy [Tu Nombre]
 
-Desarrollo soluciones que automatizan procesos e integran sistemas de forma simple y confiable.
+Desarrollo soluciones que automatizan procesos y conectan sistemas de forma simple y confiable.
 
 ---
 
-## 🚀 Lo que hago
+## 🚀 Qué hago
 
-| | |
-|---|---|
-| ✔️ Automatización de procesos fiscales y administrativos | ✔️ Integración de APIs y sistemas contables |
-| ✔️ Desarrollo de aplicaciones simples y eficientes | ✔️ Soluciones para empresas y gobiernos locales |
+• Automatización fiscal y administrativa  
+• Integración de APIs y sistemas contables  
+• Aplicaciones prácticas, simples y eficientes  
+• Soluciones funcionales para organizaciones
 
 ---
 
 ## 🛠️ Tecnologías
 
-| Lenguajes & Frameworks | Bases de Datos | Frontend & Estilos |
-|------------------------|----------------|--------------------|
-| C# / ASP.NET           | SQL Server     | HTML + CSS         |
-| PHP                    | MySQL          | Tailwind CSS       |
-| Python (Flask)         |                | JavaScript · Alpine.js |
-| Java                   |                |                    |
+C# / ASP.NET · SQL Server · PHP + MySQL · Python (Flask) · Java  
+JavaScript · HTML · CSS · Tailwind CSS · Alpine.js
 
 ---
 
 ## 💼 Experiencia
 
-| Período       | Rol            | Empresa        |
-|---------------|----------------|----------------|
-| 2021 - Actual | Dev & DBA       | Grupo Lorena   |
-| 2013 - 2016   | Desarrollador   | PC MILLENNIUM  |
-| 2011 - 2013   | Desarrollador   | Senic          |
-| -             | Desarrollador   | Shore Excursioneer |
+Grupo Lorena · Dev & DBA · 2021 - Actual  
+PC MILLENNIUM · Desarrollador · 2013 - 2016  
+Senic · Desarrollador · 2011 - 2013  
+Shore Excursioneer · Desarrollador
 
 ---
 
 ## 🎓 Formación
 
-| Grado        | Institución                   | Estado     |
-|--------------|-------------------------------|------------|
-| Licenciatura | Universidad de El Salvador    | En curso   |
-| Técnico      | ITCA-FEPADE                   | 2009-2010  |
+Licenciatura en Informática Educativa – UES *(En curso)*  
+Técnico en Ingeniería de Sistemas Informáticos – ITCA-FEPADE *(2009-2010)*
 
 ---
 
 ## 📜 Certificaciones Platzi
 
-| | |
-|-------------------------------|--------------------------------|
-| Scrum                         | JavaScript Práctico            |
-| Programación Orientada a Objetos | Introducción a C#            |
-| NPM                           | JavaScript OOP                 |
-| Data Science e Inteligencia Artificial | ECMAScript 6         |
+Scrum · JavaScript Práctico · POO · C# · NPM · JS OOP · Data Science · ECMAScript 6
 
 ---
 
 ## 🌱 Actualmente aprendiendo
 
 .NET Core · APIs RESTful · Automatización de procesos
-
